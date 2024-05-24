@@ -9,7 +9,7 @@ asttokens==2.4.1
 attrs==23.2.0
 beautifulsoup4==4.12.3
 bs4==0.0.2
-Python 3.12.3
+pip freeze
 cachetools==4.2.2
 certifi==2024.2.2
 cffi==1.16.0
